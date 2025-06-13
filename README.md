@@ -14,7 +14,7 @@ Folder: task1level1
 - style.css
 
 🌐 Live GitHub Pages Link:
-https://loukhnya2819.github.io/cognifyz-level1-task1/
+https://loukhya2819.github.io/cognifyz-level1-task1/
 
 📢 Declaration:
 I confirm that this task is fully created by me as part of my internship with Cognifyz Technologies. No code was copied from external sources.
